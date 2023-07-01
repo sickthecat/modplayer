@@ -14,7 +14,7 @@ Before compiling and running the program, make sure you have the following libra
 - libsdl2-ttf-dev
 - libsdl2-image-dev
 
-You can install these dependencies on Ubuntu or Debian-based systems using the following command:
+You can install these dependencies on Ubuntu or Debian-based systems and compile using the following commands:
 
 ```bash
 sudo apt update
