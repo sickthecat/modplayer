@@ -20,7 +20,7 @@ TTF_Font* font = nullptr;
 Mix_Music* music = nullptr;
 std::vector<std::string> modFiles;
 int currentSongIndex = 0;
-std::string slowScrollText = "Coded by _SiCK the cat @ afflicted.sh using C++ and SDL - ever since i saw the pdx her collection demo player i wanted to make my own mod player... It's done now. Thanks to UpperEchelon for the GFX ... Add your music to the folder ./music.. in the cwd, play/stop is space. N is next. Q is quit! enjoy! greetz to d0cksey, jean lupin, maurice, rico, shino, chasse, boxswapper, and the rest of the homies - you know who you are. <3  ";
+std::string slowScrollText = "Coded by _SiCK the cat @ afflicted.sh using C++ and SDL - ever since i saw the pdx her collection demo player i wanted to make my own mod player... It's done now. Thanks to UpperEchelon for the GFX ... Add your music to the folder ./music.. in the cwd, play/stop is space. N is next. Q is quit! enjoy! greetz to d0cksey, jean lupin, maurice, rico, aspen, shino, chasse, boxswapper, and the rest of the homies - you know who you are. <3  ";
 int scrollOffset = 0;
 
 struct Ball {
